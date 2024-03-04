@@ -4,7 +4,7 @@
 **About me:**
 
 - 🔭 I’m currently working on Golang , Nodejs
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning Golang
 - 💬 Ask me about Backend Development
 
 
